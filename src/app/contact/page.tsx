@@ -24,7 +24,7 @@ function Contact() {
     e.preventDefault();
     // Handle form submission here
     console.log("Form data submitted:", formData);
-    
+
     // Reset form fields after submission
     setFormData(initialFormState);
   };
@@ -41,10 +41,10 @@ function Contact() {
             developed by industry experts, equips students with the skills
             needed to excel in the rapidly evolving field of AI. We offer
             certifications recognized by industry leaders, enhancing our
-            students' career prospects.
+            students&apos; career prospects.
           </p>
           <p>
-            Unique Teaching Approach Our teaching approach is a blend of
+            Unique Teaching Approach: Our teaching approach is a blend of
             interactive online classes, real-world projects, and personalized
             mentoring. We believe in fostering a learning environment that
             encourages curiosity and innovation, ensuring that our students not
